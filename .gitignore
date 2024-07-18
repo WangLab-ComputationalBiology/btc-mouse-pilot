@@ -1,5 +1,5 @@
-
 # Large data
+data/count_matrix
 *.RDS
 
 # Output files from R CMD build
@@ -11,3 +11,4 @@
 
 # RStudio files
 .Rproj.user/
+
