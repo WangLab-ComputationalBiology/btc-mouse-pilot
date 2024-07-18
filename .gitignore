@@ -1,0 +1,13 @@
+
+# Large data
+*.RDS
+
+# Output files from R CMD build
+/*.tar.gz
+/*.tar
+
+# History files
+.Rhistory
+
+# RStudio files
+.Rproj.user/
